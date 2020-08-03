@@ -5,7 +5,7 @@
 This site is a notes repo for Code201 reading notes.
 ## Table of Contents
 - **Daily reading assignments**
-1. _Lorem ipsum dolor_
+1. [Class 1 reading notes](class-01.md)
 2. _Lorem ipsum dolor_
 3. _Lorem ipsum dolor_
 4. _Lorem ipsum dolor_
