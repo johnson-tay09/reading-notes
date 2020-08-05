@@ -1,5 +1,5 @@
 # Class 1 Reading Notes
-
+## <i>HTML & CSS</i>
 ## HTML Introduction (pp.2-11)
 - **How the web works:** A web site could be hosted on a server anywhere in the world.<br>
 - **What is a website:** All websites use HTML and CSS at the very least.<br>
@@ -25,7 +25,7 @@ Leave comments between the comment markers. Iframes let you view other web pages
 Use wireframes to organize the information on each page. 
 - **What does my user need?:** Understanding what your users are coming for is vital to the design and structure of your site.<br>
 - **Presentation:** Visual hierarchy helps filter improtant information. Size, color and style grouping can be used to set the hierarchy.
-
+## <i>JavaScript & jQuery</i>
 ## JS Introduction
 - **How JS improves interactivity:** JS makes websites more interactive by allowing users to modify the contents of a web page while they are on it.<br>
 - **Real world examples:** Slideshows, Forms, Data Filters.<br>
