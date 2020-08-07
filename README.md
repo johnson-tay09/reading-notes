@@ -8,7 +8,7 @@ This site is a notes repo for Code201 reading notes.
 1. [Class 1 reading notes](class-01.md)
 2. [Class 2 reading notes](class-02.md)
 3. [Class 3 reading notes](class-03.md)
-4. _Lorem ipsum dolor_
+4. [Class 4 reading notes](class-04.md)
 5. _Lorem ipsum dolor_
 6. _Lorem ipsum dolor_
 7. _Lorem ipsum dolor_
