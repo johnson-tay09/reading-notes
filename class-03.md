@@ -1,7 +1,7 @@
 # Class 3 Reading Notes
 ## <i>HTML & CSS</i>
 ## Chapter 3: “Lists” (pp.62-73)
-- **List types:** There are ordered lists for making lists with a numerical hierarchy and Unorded lists for arbitrary bulleted lists. Both of these lists use li for list item. Definition lists for terms followed by their definition and use dt for term and dd for definition.
+- **List types:** There are ordered lists for making lists with a numerical hierarchy and Unordered lists for arbitrary bulleted lists. Both of these lists use li for list item. Definition lists for terms followed by their definition and use dt for term and dd for definition.
 - **Nested lists:** When you add a new list inside an li tag creating a new sub list. These items will be displayed indented farther than the parent list.
 
 ## Chapter 13: “Boxes” (pp.300-329)
