@@ -1,4 +1,4 @@
-# Class 3 Reading Notes
+# Class 4 Reading Notes
 ## <i>HTML & CSS</i>
 ## Chapter 4: Ch.4 “Links” (pp.74-93)
 - **Links:** Links are defined by the 'a' element and the href tags. Anything between an 'a' element can be clicked on by a user.
