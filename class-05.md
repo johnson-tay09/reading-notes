@@ -3,7 +3,6 @@
 ## Chapter 5: “Images” (pp.94-125)
 - **Adding an image:** Images use the img tag to be called in html. These tags are self closing and must include an alt tag and a title tag. Alt tags describe the image for screen readers or if it doesnt load. Title tags show the title when the user floats their cursor over the image. It is best to include height and width when formatting your images so the browser knows how much space to leave for them while they load. 
 - -**Formatting images:** We use jpeg format for photos and gif format for illustrations and logos. Images on your site should match your color pallet. It is important that you use relevant images becuase they are the first thing the use will see.
-- 
 - **Directories:** For multi page websites its good practice to create separate folders for the different web pages on the site. The home page is the index.html in the root directory of the project. For child folders use the /folderName/site.html and for parent folders use ../site.html.
 
 ## Chapter 11: “Color” (pp.246-263)

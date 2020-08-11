@@ -1,0 +1,12 @@
+# Class 6 Reading Notes
+## <i>JavaScript & jQuery</i>
+## Chapter 3: “Object Literals” (pp.100-105)
+- **Objects:** Objects are groups of variables and functions. The variables inside objects are called properties and return valuies like true 'brown' or 57.The functions are known as methods and are assigned tasks associated with the object. 
+- **Accessing object:** You can access an object with either dot notation or bracket notation. Dot notation looks like var x = object.property so like dog.furColor would yeild x = brown. The same object call with brackets looks like var x = dog['furColor']
+
+
+## Chapter 5: “Document Object Model” (pp.183-242)
+- **DOM:** The Document Object Model tells a browser how to create a model of an HTML page and lets JS access and update a web page while it is in the browser window. The DOM is an API which lets programs talk to eachother.
+- **DOM tree:** The DOM tree is a model of a web page. The tree consists of nodes: document, element, attribute, text. Each node is an object with properties(variables) and methods(functions). Document nodew represents the page. Element nodes represent the structural elements like p, li, h1. Attribute nodes are tied to an element like id, and class tags. Text nodes have no further elements off them, no children.
+- **Acessing the DOM:** First you must locade the node that represents the element you want to work with. Next you use its tex, attributes and child elements. You can select an element in a number of ways. INDIVIDUAL: getElementById, querySelector, MULTIPLE: getElementBsyClassName, getElementsByTagName, querySelectorAll. GO BETWEEN RELATED: parentNode, previousSibling/nextSibling, firstChild/lastChild. Next you need to work with the elements by: update text node example: select the li element, use firstChild to access the text node then use nodeValue(lets you access and update contnets of a text node) to change the text. When you have to work with the same element more than once it's query should be stored with a variable like var wineLine = getElementById('wine'); so it can be called up without searching again. This is known as caching the selection. Document.getElementById('coolId') the document refers to the document object which represents the page.
+- **Node list:** Selecting multiple elemnts by the same name will always return a nodeList and you will have to specify an index to single one out or you could loop through each element to perform the same operation on each element on the list.
