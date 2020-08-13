@@ -12,7 +12,7 @@ This site is a notes repo for Code201 reading notes.
 5. [Class 5 reading notes](class-05.md)
 6. [Class 6 reading notes](class-06.md)
 7. [Class 7 reading notes](class-07.md)
-8. _Lorem ipsum dolor_
+8. [Class 8 reading notes](class-08.md)
 9. _Lorem ipsum dolor_
 10. _Lorem ipsum dolor_
 11. _Lorem ipsum dolor_
