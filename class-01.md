@@ -35,4 +35,4 @@ Use wireframes to organize the information on each page.
 - **What is a script:** A series of short instructions to be performed in order that solve a problem.<br>
 - **How we create a script:** First you need a goal. Then break it down into smaller tasks that can be solved by code.<br>
 - **How to think about computers role in the world:** Object based computing. Apply parameters to objects. Computers interpret data as models of real world objects. <br>
-- **Scripts for web pages:** HTML for structure (HTML tag). CSS for styles (style tag). JS for interactivity (script tag).
+- **Scripts for web pages:** HTML for structure (HTML tag). CSS for styles (style tag). JS for interactivity -script tag.s
