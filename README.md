@@ -1,10 +1,13 @@
-# Code 201 Reading Notes
-
+# Reading Notes
 
 ## About:
-This site is a notes repo for Code201 reading notes.
+
+This site is a notes repo for CodeFellows reading notes.
+
 ## Table of Contents
-- **Daily reading assignments**
+
+## Code 201 - Foundations of Software Development
+
 1. [Class 1 reading notes](class-01.md)
 2. [Class 2 reading notes](class-02.md)
 3. [Class 3 reading notes](class-03.md)
@@ -24,3 +27,5 @@ This site is a notes repo for Code201 reading notes.
 17. _Lorem ipsum dolor_
 18. _Lorem ipsum dolor_
 19. _Lorem ipsum dolor_
+
+## Code 301 - Intermediate Software Development
