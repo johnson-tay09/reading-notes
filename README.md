@@ -32,7 +32,7 @@ This site is a notes repo for CodeFellows reading notes.
 
 1. [301 class 01 reading notes](301-01.md)
 2. _Lorem ipsum dolor_
-3. _Lorem ipsum dolor_
+3. [301 class 03 reading notes](301-03.md)
 4. _Lorem ipsum dolor_
 5. _Lorem ipsum dolor_
 6. _Lorem ipsum dolor_
