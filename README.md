@@ -31,8 +31,10 @@ This site is a notes repo for CodeFellows reading notes.
 ## Code 301 - Intermediate Software Development
 
 1. [301 class 01 reading notes](301-01.md)
-2. _Lorem ipsum dolor_
+2. [301 class 02 reading notes](301-02.md)
 3. [301 class 03 reading notes](301-03.md)
-4. _Lorem ipsum dolor_
-5. _Lorem ipsum dolor_
+4. [301 class 04 reading notes](301-04.md)
+5. [301 class 05 reading notes](301-05.md)
 6. _Lorem ipsum dolor_
+7. _Lorem ipsum dolor_
+8. _Lorem ipsum dolor_
