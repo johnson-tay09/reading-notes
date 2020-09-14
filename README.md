@@ -35,6 +35,6 @@ This site is a notes repo for CodeFellows reading notes.
 3. [301 class 03 reading notes](301-03.md)
 4. [301 class 04 reading notes](301-04.md)
 5. [301 class 05 reading notes](301-05.md)
-6. _Lorem ipsum dolor_
+6. [301 class 06 reading notes](301-06.md)
 7. _Lorem ipsum dolor_
 8. _Lorem ipsum dolor_
