@@ -22,11 +22,6 @@ This site is a notes repo for CodeFellows reading notes.
 12. [Class 12 reading notes](class-12.md)
 13. [Class 13 reading notes](class-13.md)
 14. [Class 14 reading notes](class-14.md)
-15. _Lorem ipsum dolor_
-16. _Lorem ipsum dolor_
-17. _Lorem ipsum dolor_
-18. _Lorem ipsum dolor_
-19. _Lorem ipsum dolor_
 
 ## Code 301 - Intermediate Software Development
 
@@ -36,5 +31,5 @@ This site is a notes repo for CodeFellows reading notes.
 4. [301 class 04 reading notes](301-04.md)
 5. [301 class 05 reading notes](301-05.md)
 6. [301 class 06 reading notes](301-06.md)
-7. _Lorem ipsum dolor_
+7. [301 class 07 reading notes](301-07.md)
 8. _Lorem ipsum dolor_
