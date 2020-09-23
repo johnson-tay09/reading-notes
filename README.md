@@ -37,4 +37,5 @@ This site is a notes repo for CodeFellows reading notes.
 10. [301 class 10 reading notes](301-10.md)
 11. [301 class 11 reading notes](301-11.md)
 12. [301 class 12 reading notes](301-12.md)
-13. _Lorem ipsum dolor_
+13. [301 class 13 reading notes](301-13.md)
+14. _Lorem ipsum dolor_
