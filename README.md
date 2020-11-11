@@ -45,4 +45,5 @@ This site is a notes repo for CodeFellows reading notes.
 ## **Code 401** - *Python*
 
 1. [401 Python class 01 reading notes](301-01.md)
-2.  _Lorem ipsum dolor_
+2. [401 Python class 02 reading notes](301-02.md)
+3.  _Lorem ipsum dolor_
